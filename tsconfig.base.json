@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "CommonJS",
+    "target": "ES2018",
+    "declaration": true,
+    "lib": ["es2018"]
+  }
+}

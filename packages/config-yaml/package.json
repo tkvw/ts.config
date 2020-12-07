@@ -1,0 +1,14 @@
+{
+  "name": "@tkvw/config-yaml",
+  "private": false,
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.14.0"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^3.12.5"
+  }
+}
